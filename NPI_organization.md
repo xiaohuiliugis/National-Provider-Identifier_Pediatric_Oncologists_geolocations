@@ -1,7 +1,7 @@
 ```python
 # this program uses Google Geocoding API to geocode the address of pediatric oncology organizations across US
 # this api_key has been replaced by a new key
-api_key ="AIzaSyBX3g3N04IHnGxNup3UArtVPCPuU04gzM8"
+api_key ="****"
 ```
 
 
